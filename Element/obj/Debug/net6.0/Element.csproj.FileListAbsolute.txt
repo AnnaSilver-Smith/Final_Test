@@ -1,0 +1,15 @@
+/home/anna/Test/Element/bin/Debug/net6.0/Element
+/home/anna/Test/Element/bin/Debug/net6.0/Element.deps.json
+/home/anna/Test/Element/bin/Debug/net6.0/Element.runtimeconfig.json
+/home/anna/Test/Element/bin/Debug/net6.0/Element.dll
+/home/anna/Test/Element/bin/Debug/net6.0/ref/Element.dll
+/home/anna/Test/Element/bin/Debug/net6.0/Element.pdb
+/home/anna/Test/Element/obj/Debug/net6.0/Element.csproj.AssemblyReference.cache
+/home/anna/Test/Element/obj/Debug/net6.0/Element.GeneratedMSBuildEditorConfig.editorconfig
+/home/anna/Test/Element/obj/Debug/net6.0/Element.AssemblyInfoInputs.cache
+/home/anna/Test/Element/obj/Debug/net6.0/Element.AssemblyInfo.cs
+/home/anna/Test/Element/obj/Debug/net6.0/Element.csproj.CoreCompileInputs.cache
+/home/anna/Test/Element/obj/Debug/net6.0/Element.dll
+/home/anna/Test/Element/obj/Debug/net6.0/ref/Element.dll
+/home/anna/Test/Element/obj/Debug/net6.0/Element.pdb
+/home/anna/Test/Element/obj/Debug/net6.0/Element.genruntimeconfig.cache
